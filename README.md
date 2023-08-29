@@ -1,6 +1,6 @@
-# TRTMP
+# Epltv Rtmp Streamer Bot
 
-A bot for streaming in Telegram live streams.
+A telegram bot for stream live to rtmp servers
 
 ## Get Started
 
