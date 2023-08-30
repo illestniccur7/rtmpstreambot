@@ -6,7 +6,7 @@ A telegram bot for stream live to rtmp servers
 
 ### Use a Cloud Platform
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/trtmp)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/illestniccur7/rtmpstreambot/)
 
 ### Manually
 
